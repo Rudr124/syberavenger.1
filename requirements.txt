@@ -1,0 +1,4 @@
+requests
+aiohttp
+pyppeteer
+mmh3
